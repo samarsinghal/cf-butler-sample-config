@@ -1,4 +1,5 @@
 {
+    "stacks": ["cflinuxfs3"],
     "service-offerings": [ "p.config-server" ],
     "operator-email-template": {
         "from":"admin@pcf.demo.ironleg.me",
