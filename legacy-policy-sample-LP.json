@@ -2,7 +2,7 @@
     "stacks": [ "windows2012R2","cflinuxfs2" ],
     "operator-email-template": {
         "from":"admin@pcf.demo.ironleg.me",
-        "to":[ "cphillipson@pivotal.io" ],
+        "to":[ "sasinghal@pivotal.io" ],
         "subject":"Legacy Policy Sample Report",
         "body":"<h3>These applications are deployed to a legacy stack</h3><p>Results are herewith attached for your consideration.</p>"
     },
