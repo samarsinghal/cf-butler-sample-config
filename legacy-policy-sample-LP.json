@@ -1,5 +1,6 @@
 {
     "stacks": [ "windows2012R2","cflinuxfs2" ],
+    "service-offerings"
     "operator-email-template": {
         "from":"admin@pcf.demo.ironleg.me",
         "to":[ "sasinghal@pivotal.io" ],
