@@ -1,7 +1,7 @@
 {
     "service-offerings": [ "p.config-server" ],
     "operator-email-template": {
-        "from":"admin@pcf.demo.ironleg.me",
+        "from":"sasinghal1@Pivotal.io",
         "to":[ "sasinghal@pivotal.io" ],
         "subject":"URGENT-PLEASE READ AND RESPOND:  - SCS Legacy Application Policy Report - Operator",
         "body":"<h3>These applications are deployed to a legacy service</h3><p> You are receiving this email because the following Application(s) running in the Pre-Prod and Prod Foundation(s) within your org and space are using p-config-server service. These <strong>applications are blocking</strong> Cloud Foundry (CF) platform upgrades and are subjecting The Boeing Company to significant risk.</p><p> ORG/APP NAME: <strong>(please see attachment)</strong></p><ul type=\"disc\"> <li> How to change the p-spring-server: <a href=\"https://docs.cloudfoundry.org/devguide/deploy-apps/stacks.html\" > https://docs.cloudfoundry.org/devguide/deploy-apps/stacks.html </a></li> <li> How to change the p-spring-server with an automation script: <a href=\"https://docs.cloudfoundry.org/devguide/deploy-apps/stacks.html\" > https://git.web.boeing.com/digitalfactory/misc-scripts </a> </li></ul> <br /><p> Do you still have questions? Contact the Cloud Foundry Team via email at</p><a href=\"mailto:pcfgrp@exchange.boeing.com\">pcfgrp@exchange.boeing.com</a>"
