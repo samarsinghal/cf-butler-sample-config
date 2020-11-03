@@ -10,7 +10,7 @@
                     "PrimaryOwner",
                     "SecondaryOwner"
                   ],
-        "domain": "pivotal.io"
+        "email-domain": "pivotal.io"
     },
     "organization-whitelist": [
         "pivot-sasinghal"
